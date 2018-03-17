@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CannonInteractionScript.cs">
+    <Files>
+      <File FileName="Assets/UserController.cs" Line="127" Column="36" />
+      <File FileName="Assets/CannonInteractionScript.cs" Line="37" Column="19" />
+      <File FileName="Assets/Animations/DoorHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/swordSound.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/pageSound.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameOverManager.cs" Line="35" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
